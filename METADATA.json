@@ -1,0 +1,10 @@
+{
+  "name": "USDT SOLANA",
+  "symbol": "USDT",
+  "description": "USDT Coin – the way of the meme samurai on Solana.",
+  "image": "https://raw.githubusercontent.com/Ujoel1865/BushidoCoin-/main/BushidoC.png",
+  "attributes": [
+    { "trait_type": "Project", "value": "BushidoCoin" },
+    { "trait_type": "Category", "value": "Meme Token" }
+  ]
+}
